@@ -30,3 +30,8 @@ with zipfile.ZipFile("pizza_not_pizza.zip", 'r') as zip_ref:
 ```
 
 - Open the Deep_Learning_Pizza.ipynb and enjoy!
+
+#### Want to go straight to using the model?
+
+- Make sure that you downloaded the pretrained models from this repository named pizza_classifier.pt or finetuned_pizza_classifier.pt.
+- Open the Deep_Learning_Pizza.ipynb and go straight to "Phase 5: Using the Pretrained Model for your own PIZZAAAAAAA!!!"
