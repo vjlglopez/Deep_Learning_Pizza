@@ -2,7 +2,7 @@
 
 #### Dataset Download:
 
-- The dataset used in this project can be downloaded from https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza.
+- The dataset used in this project can be downloaded from https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza. Or clone this repository, the images are stored in pizza_not_pizza folder.
 - Click on the provided link to access the dataset source page.
 - Follow the instructions provided on the webpage to download the dataset files.
 - Save the dataset files in a designated folder on your local machine and rename it to **pizza_not_pizza.zip**.
